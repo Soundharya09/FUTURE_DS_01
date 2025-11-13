@@ -33,7 +33,6 @@ The data was cleaned, standardized, and modeled using Power Query and DAX within
 
 ## Dashboard Overview
 The Power BI report comprises three interactive dashboards, each focusing on a distinct aspect of the business's analytics.
-
 1. Overview Dashboard
 
 Purpose:
