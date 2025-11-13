@@ -21,18 +21,23 @@ The project is designed to:
 
 ## Dataset Overview
 The dataset (superstore.xls) contains detailed information about orders, products, customers, and geographical regions.
+
 It includes:
 - Order ID, Order Date, Ship Date, Ship Mode
 - Customer ID, Customer Name, Segment
 - Product ID, Category, Sub-Category, Product Name
 - Sales, Quantity, Discount, Profit
 - Region, State, City, Postal Code
+
 The data was cleaned, standardized, and modeled using Power Query and DAX within Power BI to support multi-dimensional analysis.
 
 ## Dashboard Overview
 The Power BI report comprises three interactive dashboards, each focusing on a distinct aspect of the business's analytics.
+
 1. Overview Dashboard
+
 Purpose:
+
 To provide a high-level summary of business performance — total sales, profit, quantity sold, and customer base.
 
 Key Visuals and Insights:
@@ -46,7 +51,9 @@ Regional Analysis:
 - West also leads in profitability, followed by Central.
 
 2. Sales Dashboard
+
 Purpose:
+
 To perform a deeper analysis of sales and profit across time, categories, sub-categories, and regions.
 
 Key Visuals and Insights:
@@ -62,7 +69,9 @@ Business Insight:
 While sales volume is high for Office Supplies, *Technology products* offer better profitability, suggesting an opportunity to promote tech-based upselling.
 
 3. Product and Customer Dashboard
+
 Purpose:
+
 To explore detailed product-level and customer-level analytics, identifying who buys what and where profitability comes from.
 
 Key Visuals and Insights:
@@ -71,16 +80,16 @@ Key Visuals and Insights:
 - Top 5 Products by Profit: Canon imageCLASS 2200 tops with $25.2K profit.
 - Bottom 5 Products by Loss: Bush Cubix and Cubify CubeX show consistent negative returns.
 - Customer Distribution by Segment:
-      - Consumer (51.94%)
-      - Corporate (30.22%)
-      - Home Office (17.84%)
+   - Consumer (51.94%)
+   - Corporate (30.22%)
+   - Home Office (17.84%)
   
 - Ship Mode & Category Distribution:
-      - Most customers choose Standard Class (59.72%) shipping.
-      - Office Supplies make up 60% of total sales volume.
+   - Most customers choose Standard Class (59.72%) shipping.
+   - Office Supplies make up 60% of total sales volume.
   
 - Customer Distribution by Region:
-      - West (32.05%) leads in customer base.
+   - West (32.05%) leads in customer base.
 
 ## Analytical Process
 1. Data Cleaning:
@@ -105,4 +114,5 @@ The project successfully delivers an interactive analytical solution that enable
 - Monitor real-time KPIs on sales, profit, and customer metrics.
 - Analyze performance by region, product category, and time period.
 - Identify actionable opportunities for sales growth and cost optimization.
+
 The dashboard bridges the gap between raw data and business intelligence, showcasing a complete analytics workflow from data acquisition to visualization.
