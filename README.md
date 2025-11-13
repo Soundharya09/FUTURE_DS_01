@@ -4,6 +4,7 @@ The Superstore Analytics Dashboard is a comprehensive data visualization and bus
 real-world internship-style task that focuses on analyzing e-commerce sales data to uncover meaningful insights for business decision-making. The project involves cleaning raw data, performing exploratory analysis, and creating interactive dashboards that visualize trends across sales, customers, products, and regions.
 
 The ultimate goal is to help business leaders answer key strategic questions like:
+
 Q1. What are the top-performing products and most profitable categories?
 Q2. When do sales peak throughout the year?
 Q3. Which regions or states generate the most revenue?
