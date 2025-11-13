@@ -34,7 +34,7 @@ The data was cleaned, standardized, and modeled using Power Query and DAX within
 ## Dashboard Overview
 The Power BI report comprises three interactive dashboards, each focusing on a distinct aspect of the business's analytics.
 
-1.Overview Dashboard
+### Overview Dashboard
 
 Purpose:
 
@@ -50,7 +50,7 @@ Regional Analysis:
 - West region drives ~30% of total sales.
 - West also leads in profitability, followed by Central.
 
-2.Sales Dashboard
+### Sales Dashboard
 
 Purpose:
 
@@ -66,9 +66,9 @@ Key Visuals and Insights:
 - Profitability by Category: Offers insight into product lines that yield the highest margins.
 
 Business Insight:
-While sales volume is high for Office Supplies, *Technology products* offer better profitability, suggesting an opportunity to promote tech-based upselling.
+- While sales volume is high for Office Supplies, *Technology products* offer better profitability, suggesting an opportunity to promote tech-based upselling.
 
-3.Product and Customer Dashboard
+### Product and Customer Dashboard
 
 Purpose:
 
