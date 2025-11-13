@@ -5,9 +5,11 @@ real-world internship-style task that focuses on analyzing e-commerce sales data
 
 The ultimate goal is to help business leaders answer key strategic questions like:
 
-Q1. What are the top-performing products and most profitable categories?.
-Q2. When do sales peak throughout the year?.
-Q3. Which regions or states generate the most revenue?.
+Q1. What are the top-performing products and most profitable categories?
+
+Q2. When do sales peak throughout the year?
+
+Q3. Which regions or states generate the most revenue?
 
 ## Objective
 The project is designed to:
