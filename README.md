@@ -1,12 +1,12 @@
-🌟 Superstore Analytics Dashboard
-Data Science & Analytics Task 1 – Future Interns Internship Project
-Turning Raw Data Into Actionable Insights 
+# 🌟 Superstore Analytics Dashboard
+# Data Science & Analytics Task 1 – Future Interns Internship Project
+## Turning Raw Data Into Actionable Insights 
 
 Welcome to the Superstore Analytics Dashboard, a full-scale business intelligence project built using Microsoft Power BI and Excel. This project mirrors a real-world internship scenario, where the goal is to explore, clean, model, and visualize e-commerce sales data to help businesses make informed decisions.
 
 From identifying top-performing products to uncovering regional sales patterns, this dashboard transforms thousands of rows of retail data into intuitive, interactive stories.
 
-🎯 Project Goals
+## 🎯 Project Goals
 
 This project is carefully designed to:
 - Uncover trends in e-commerce sales and profitability.
@@ -20,7 +20,7 @@ Ultimately, it helps answer high-impact business questions like:
 - What products drive the most profit?
 - When do sales peak?
 
-📂 Dataset Overview
+## 📂 Dataset Overview
 
 The dataset (superstore.xls) includes detailed order-level information covering sales, shipping, customer demographics, product types, and geographic attributes.
 
@@ -33,11 +33,11 @@ Key Fields:
 
 Cleaned and standardized with Power Query, and enhanced with DAX measures for multi-dimensional analysis.
 
-📊 Dashboard Collection
+## 📊 Dashboard Collection
 
 The dashboard suite comprises three powerful and interactive reports, each providing a distinct perspective on the business.
 
-1️⃣ Overview Dashboard 
+### 1️⃣ Overview Dashboard 
 
 A high-level snapshot of the company’s performance.
 
@@ -52,7 +52,7 @@ Key Highlights:
 - Top Product: Canon imageCLASS 2200 Advanced Copier leads with $62K in sales.
 - Regional Insights: The West contributes ~30% of sales and leads in profitability.
 
-2️⃣ Sales Dashboard 
+### 2️⃣ Sales Dashboard 
 
 Built for detailed performance analysis across time, categories, and regions.
 
@@ -65,7 +65,7 @@ Key Visuals:
     - Geographical Heatmaps: Track regional strengths and weak zones.
     - Business Insight: Technology delivers stronger profit margins—a strong opportunity for tech-focused upselling.
 
-3️⃣ Product & Customer Dashboard 
+### 3️⃣ Product & Customer Dashboard 
 
 A clear view of product performance and customer behavior.
 
@@ -90,7 +90,7 @@ KPIs:
 - Regional Customer Distribution:
     - The West leads with 32.05% of total customers.
 
-🔧 Analytics Workflow
+## 🔧 Analytics Workflow
 1. Data Cleaning
 - Removed duplicates and missing values.
 - Validated date and numeric fields.
@@ -108,7 +108,7 @@ KPIs:
 4. Insight Development
 - Interpreted key visual patterns to extract strategic business recommendations.
 
-🚀 Project Outcome
+## 🚀 Project Outcome
 
 The Superstore Analytics Dashboard provides a complete insight ecosystem that empowers stakeholders to:
 - Monitor real-time KPIs for sales, profit, customers, and products.
